@@ -11,3 +11,8 @@
 - Investigate some awesome game dev repositories. [Tweet in spanish](https://twitter.com/adrianensisDev/status/1477683945139548162?t=GVFv37yMv_jbQWVa7sbhOw&s=08).
 - Install git client for android (Spck editor).
 - Setup VSCode for devlog updates in the PC.
+
+
+## 3rd January
+
+- Configure scpk
