@@ -16,3 +16,8 @@
 ## 3rd January
 
 - Configure scpk
+
+
+## 4th January
+
+- No updates. Internet provider issues.
