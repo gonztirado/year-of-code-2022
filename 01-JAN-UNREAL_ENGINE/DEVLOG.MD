@@ -21,3 +21,8 @@
 ## 4th January
 
 - No updates. Internet provider issues.
+
+## 5th January
+
+- Again, more connection issues.
+- Three wise kings night
