@@ -26,3 +26,8 @@
 
 - Again, more connection issues.
 - Three wise kings night
+
+## 6th January
+
+- Downloaded Unreal Engine
+- Started "Welcome to Unreal Engine" [online course](https://learn.unrealengine.com/home/LearningPath/119021?r=False&ts=637770584905551165)
