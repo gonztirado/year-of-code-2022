@@ -9,7 +9,7 @@
 ## Projects:
 
 - January: Learn Unreal Engine.
-- February: ???
+- February: Refresh Unity. Pyramid Warriors update.
 - March: ???
 - April: ???
 - May: ???
