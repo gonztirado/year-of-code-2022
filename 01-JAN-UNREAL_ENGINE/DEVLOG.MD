@@ -31,3 +31,7 @@
 
 - Downloaded Unreal Engine
 - Started "Welcome to Unreal Engine" [online course](https://learn.unrealengine.com/home/LearningPath/119021?r=False&ts=637770584905551165)
+
+## 7th January
+
+- Ant recommends me [this course](https://www.udemy.com/course/desarrollo-de-juegos-con-unreal-engine-4-de-0-a-profesional/) in Udemy.
