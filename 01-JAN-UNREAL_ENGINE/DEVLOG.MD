@@ -35,3 +35,8 @@
 ## 7th January
 
 - Ant recommends me [this course](https://www.udemy.com/course/desarrollo-de-juegos-con-unreal-engine-4-de-0-a-profesional/) in Udemy.
+
+
+## 8th January
+
+- No updates
