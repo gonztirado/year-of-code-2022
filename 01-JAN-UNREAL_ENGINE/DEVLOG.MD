@@ -40,3 +40,9 @@
 ## 8th January
 
 - No updates
+
+
+## 9th January
+
+- Installed Udemy for Android app.
+- Started Unreal Engine Udemy course.
