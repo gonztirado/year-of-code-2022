@@ -46,3 +46,7 @@
 
 - Installed Udemy for Android app.
 - Started Unreal Engine Udemy course.
+
+## 10th January
+
+- New internet provider with stable connection! Hurra!
